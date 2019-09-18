@@ -1,1 +1,2 @@
 Learning tensorflow for beginners from DataCamp 
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t2&utm_creative=332602034364&utm_targetid=aud-299261629574:dsa-498578051924&utm_loc_interest_ms=&utm_loc_physical_ms=9047170&gclid=Cj0KCQjwiILsBRCGARIsAHKQWLPiMR9mKBU_INttIGzJ-Fou1MULnCAOz265wIfuPxhiV01-g_vQoQoaAnYeEALw_wcB#tensors
